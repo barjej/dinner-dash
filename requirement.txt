@@ -1,1 +1,4 @@
-numerize, pandas, altair, streamlit
+numerize 
+pandas
+altair
+streamlit
