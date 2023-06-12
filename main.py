@@ -143,5 +143,6 @@ st.altair_chart(sales_line, use_container_width=True)
 st.altair_chart(sales_bar, use_container_width=True)
 st.dataframe(data,use_container_width=True)
 
+st.show
 
 
